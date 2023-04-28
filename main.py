@@ -10,3 +10,5 @@ def print_hi(name):
 
 
 print_hi("Jabulani")
+for i in range(0, 12):
+    print_hi("kutlwelo")
