@@ -10,3 +10,4 @@ def print_hi(name):
 
 
 print_hi("Jabulani")
+print_hi("kutlwelo")
